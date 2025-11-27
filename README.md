@@ -47,22 +47,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manos2864&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manos2864&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manos2864&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 💡 Featured Interests
 
-| ⚛️ React & Web Apps | 🎨 UI/UX Design | 📱 Mobile Development | 🧩 Architecture & Patterns |
+| ⚛️ React & Web Apps | 🎨 UI/UX Design | 📱 React Native Mobile Development | 🧩 Architecture & Patterns |
 | :---: | :---: | :---: | :---: |
 
 ---

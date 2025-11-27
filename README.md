@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=React+Front-End+Engineer;Web+App+Developer;UI%2FUX+Focused;Lifelong+Learner+💡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=React+Front-End+Engineer;React+Native+Developer;UI%2FUX+Focused;Lifelong+Learner+💡" alt="Typing Animation" />
 </p>
 
 ---
@@ -44,13 +44,17 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 ![Vitest](https://img.shields.io/badge/-Vitest-1E2D3D?style=flat-square&logo=vitest)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-8DD6F9?style=flat-square&logo=githubcopilot)
 
 ---
 
 
 ## 💡 Featured Interests
 
-| ⚛️ React & Web Apps | 🎨 UI/UX Design | 📱 React Native Mobile Development | 🧩 Architecture & Patterns |
+| ⚛️ React & Web Apps | 🎨 UI/UX Design | 📱 React Native Mobile Development | 🧩 Architecture & Patterns | 💻 System Design | 🎬 Movies | 🌍 Travels | 🖨️ 3D Printing | 🥾 Hiking |
+
 | :---: | :---: | :---: | :---: |
 
 ---

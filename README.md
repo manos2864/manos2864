@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="100%" alt="GitHub Banner"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="GitHub Banner"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manos-tsik7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emmanouil-tsikniadopoulos-75ba1560" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:manos.tsik7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/manos2864"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
